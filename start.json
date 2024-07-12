@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "microservice_cun_docker_1",
+      "script": "./node_modules/ts-node/dist/bin.js",
+      "args": "./app/microservice_cun_docker_1.ts"
+    }
+  ]
+}
